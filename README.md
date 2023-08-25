@@ -12,6 +12,6 @@ Depoyu klonlayın:
 bash
 Copy code
 git clone https://github.com/rubikraven/RealTime-ASCII-Capture.git
-Proje dizinine gidin ve gerekli bağımlılıkları kurun (eğer varsa).
+Proje dizinine gidin ve gerekli bağımlılıkları kurun
 
 Projeyi çalıştırın.
