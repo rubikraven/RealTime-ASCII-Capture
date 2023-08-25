@@ -1,12 +1,12 @@
 let video;
 let asciiDiv;
-const density = ' .:-i|=+%O#@1W$abc+$@}'; // yoğunluk dizisini optimize ediyoruz
+const density = ' .:-i|=+%O#@1W$abc+$@}'; 
 
 function setup() {
   noCanvas();
   video = createCapture(VIDEO);
-  video.size(80, 60); // video boyutunu ASCII çıktısına daha uyumlu hale getiriyoruz
-  video.hide(); // video öğesini gizleyerek sadece ASCII çıktısını gösteriyoruz
+  video.size(80, 60); 
+  video.hide(); 
   asciiDiv = createDiv();
 }
 
